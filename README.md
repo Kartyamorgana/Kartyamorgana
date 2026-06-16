@@ -47,8 +47,7 @@
 ---
 
 ### 🐍 Contribution Snake
-> 🐍 **Snake animation** will eat my contributions soon!  
-> *Setup guide: [Platane/snk](https://github.com/Platane/snk)*
+![Snake animation](https://kartyamorgana.github.io/Kartyamorgana/github-contribution-grid-snake-dark.svg)
 
 ---
 
