@@ -53,4 +53,11 @@
 
 ---
 
+### 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartyamorgana&style=flat-square&color=blue" alt="profile views" />
+</div>
+
+---
+
 *Thanks for stopping by!* 🚀
