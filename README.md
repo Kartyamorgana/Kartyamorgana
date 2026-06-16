@@ -1,22 +1,14 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=Kartyamorgana&fontSize=48&fontColor=f0f6fc&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=16" width="100%"/>
+# Hi, I'm Kartyamorgana! 👋
 
-<!-- TYPING -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+robots+with+C%2B%2B+%26+Python;Smart+Notes%2C+Smarter+Code;Welcome+to+my+digital+lab+%F0%9F%A7%A0" alt="Typing SVG" />
-  </a>
-</p>
+🎓 **Robotics &amp; AI Engineering** student  
+💻 Currently mastering **C++** and **Python**  
+📝 Built [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) — a clean web app to capture ideas beautifully  
+🌱 Always learning, always building — one commit at a time  
 
 ---
 
-### 🧠 About Me
-- 🎓 **Robotics &amp; AI Engineering** student — combining hardware &amp; intelligence  
-- 💻 Currently mastering **C++** and **Python**  
-- 📝 Built [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) — a clean web app to capture ideas beautifully  
-- 🌱 Always learning, always building — one commit at a time  
-
-<p align="center">
+### 🔗 Connect with Me
+<p>
   <a href="https://www.linkedin.com/in/kainorudiyansyah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -31,7 +23,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -55,7 +47,8 @@
 ---
 
 ### 🐍 Contribution Snake
-> 🐍 **Snake animation** eats my contributions... (coming soon after setup! [Instructions](https://github.com/Platane/snk))
+> 🐍 **Snake animation** will eat my contributions soon!  
+> *Setup guide: [Platane/snk](https://github.com/Platane/snk)*
 
 ---
 
@@ -67,12 +60,4 @@
 
 ---
 
-### 🎭 Fun Corner
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQy7JjAapJ6PS/giphy.gif" width="200" alt="robot coding"/>
-  <br/>
-  <sub>^ little coding buddy cheering you on</sub>
-</p>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer" width="100%"/>
+*Thanks for stopping by!* 🚀
