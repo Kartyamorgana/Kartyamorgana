@@ -1,6 +1,6 @@
 # Hi, I'm Kartyamorgana! 👋
 
-🎓 **Robotics & AI Engineering Student**  
+🎓 **Robotics & AI Engineering Student in Universitas Airlangga**  
 🤖 Currently learning **C++** and **Python**  
 🚀 Building mini projects, one commit at a time  
 
