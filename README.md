@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kartyamorgana! 👋
 
-<!--
-**Kartyamorgana/Kartyamorgana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Robotics & AI Engineering Student**  
+🤖 Currently learning **C++** and **Python**  
+🚀 Building mini projects, one commit at a time  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📂 My Learning Repository
+Kunjungi [belajar-cpp](https://github.com/Kartyamorgana/belajar-cpp) untuk melihat semua mini project dan kurikulum C++ ku!
+
+---
+
+✨ *"Wish me luck on this journey!"*
