@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/kinosmerdeka/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:capeka190@gmail.com">
+  <a href="mailto:kartyamorgana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logo=heart&logoColor=white" />
 </p>
 
 ---
@@ -38,10 +36,6 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kartyamorgana&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=4E4376&text_color=C9D1D9&ring_color=4E4376" />
   <img height="170em" src="https://streak-stats.demolab.com?user=Kartyamorgana&theme=transparent&hide_border=true&background=0D1117&ring=4E4376&fire=4E4376&currStreakLabel=8B949E&sideNums=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartyamorgana&theme=dark_dimmed&no-frame=true&margin-w=10&column=7" />
 </p>
 
 ---
