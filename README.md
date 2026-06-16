@@ -40,6 +40,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartyamorgana&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 ![Snake animation](https://kartyamorgana.github.io/Kartyamorgana/github-contribution-grid-snake-dark.svg)
 
