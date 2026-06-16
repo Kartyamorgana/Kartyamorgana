@@ -1,7 +1,7 @@
-<!-- HEADER WAVE - Dark Elegant -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=Kartyamorgana&fontSize=48&fontColor=f0f6fc&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+robots+with+C%2B%2B+%26+Python;Smart+Notes%2C+Smarter+Code;Welcome+to+my+digital+lab+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kartyamorgana&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=4E4376&text_color=C9D1D9&ring_color=4E4376" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartyamorgana&theme=transparent&hide_border=true&background=0D1117&ring=4E4376&fire=4E4376&currStreakLabel=8B949E&sideNums=C9D1D9" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Kartyamorgana&theme=transparent&hide_border=true&background=0D1117&ring=4E4376&fire=4E4376&currStreakLabel=8B949E&sideNums=C9D1D9" />
 </p>
 
 <p align="center">
@@ -55,14 +55,7 @@
 ---
 
 ### 🐍 Contribution Snake
-<!-- 
-  To activate: 
-  1. Create file .github/workflows/snake.yml with contents below (see instructions)
-  2. Push, then uncomment the line below
--->
-![Snake animation](https://github.com/Kartyamorgana/Kartyamorgana/blob/output/github-contribution-grid-snake.svg)
-
-*Belum muncul? Ikuti setup [Snake Workflow](https://github.com/Platane/snk) — super gampang, 2 menit!*
+> 🐍 **Snake animation** eats my contributions... (coming soon after setup! [Instructions](https://github.com/Platane/snk))
 
 ---
 
@@ -76,11 +69,10 @@
 
 ### 🎭 Fun Corner
 <p align="center">
-  <!-- Ganti src dengan GIF favoritmu (robot, coding, pixel art) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQzZzFzM2R5b3l6eTQ/giphy.gif" width="180" alt="robot coding"/>
+  <img src="https://media.giphy.com/media/l0HlNQy7JjAapJ6PS/giphy.gif" width="200" alt="robot coding"/>
   <br/>
   <sub>^ little coding buddy cheering you on</sub>
 </p>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer" width="100%"/>
