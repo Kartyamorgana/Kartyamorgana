@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 **Robotics & AI Engineering** student — combining hardware & intelligence  
+- 🎓 **Robotics &amp; AI Engineering** student — combining hardware &amp; intelligence  
 - 💻 Currently mastering **C++** and **Python**  
 - 📝 Built [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) — a clean web app to capture ideas beautifully  
 - 🌱 Always learning, always building — one commit at a time  
@@ -63,7 +63,7 @@
 | Project | Description |
 |--------|-------------|
 | [**belajar-cpp**](https://github.com/Kartyamorgana/belajar-cpp) | Complete C++ learning journey — from variables to robotics simulation |
-| [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) | Web-based smart notes with AI vibes, minimal & fast |
+| [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) | Web-based smart notes with AI vibes, minimal &amp; fast |
 
 ---
 
