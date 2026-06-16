@@ -2,7 +2,7 @@
 
 🎓 **Robotics &amp; AI Engineering** student  
 💻 Currently mastering **C++** and **Python**  
-📝 Built [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) — a clean web app to capture ideas beautifully  
+📝 Built <a href="https://smart-note-buddy-ai.lovable.app/" target="_blank"><strong>Smart Note Buddy AI</strong></a> — a clean web app to capture ideas beautifully
 🌱 Always learning, always building — one commit at a time  
 
 ---
