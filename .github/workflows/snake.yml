@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 17 * * *"   # setiap hari jam 00:00 UTC
-  workflow_dispatch:       # bisa dijalankan manual
+    - cron: "0 17 * * *"   # setiap hari jam 00:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write          # ⬅️ wajib biar bisa push ke branch output
 
 jobs:
   generate:
@@ -15,9 +18,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - uses: crazy-max/ghaction-github-pages@v4   # ⬅️ upgrade ke v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false        # biar selalu fresh push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
