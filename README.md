@@ -48,7 +48,7 @@
 ### 📂 Highlight Projects
 | Project | Description |
 |--------|-------------|
-| [**belajar-cpp**](https://github.com/Kartyamorgana/belajar-cpp) | Complete C++ learning journey — from variables to robotics simulation |
+| [**belajar-cpp**](https://github.com/Kartyamorgana/belajar-cpp) | Complete C++ learning journey, from variables to robotics simulation |
 | [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) | Web-based smart notes with AI vibes, minimal &amp; fast |
 
 ---
