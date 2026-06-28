@@ -48,7 +48,8 @@
 ### 📂 Highlight Projects
 | Project | Description |
 |--------|-------------|
-| [**belajar-cpp**](https://github.com/Kartyamorgana/belajar-cpp) | Complete C++ learning journey, from variables to robotics simulation |
+| [**C++ Indenpendent Course**](https://github.com/Kartyamorgana/belajar-cpp) | Complete C++ learning journey, from variables to robotics simulation |
+| [**Python FreeCodeCamp Course**](https://github.com/Kartyamorgana/Python-FreeCodeCamp-Certification) | FreeCodeCamp Python Certification projects + personal Python projects |
 | [**Smart Note Buddy AI**](https://smart-note-buddy-ai.lovable.app/) | Web-based smart notes with AI vibes, minimal &amp; fast |
 
 ---
